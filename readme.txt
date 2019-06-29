@@ -2,4 +2,4 @@ git xx
 jixuxuexi
 123
 tianjia git
-create a new branch is simple
+create a new branch is quick
